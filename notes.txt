@@ -1,0 +1,19 @@
+
+OOP => Object Oriented Programming (PHP, Java, Python, C++, C#)
+
+Laravel(MVC=>OOP)
+
+Car (Object) == Color, Engine, Model (Blue Print => Class)
+
+class ClassName{
+    proterties (variable, method)
+}
+
+
+Access Modifier...
+
+public
+private
+protected
+
+Calculator (Object) == Sum, Sub, Mul, Div (Blue Print => Class)
